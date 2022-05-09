@@ -837,7 +837,6 @@ section {
 @media (max-width: 768px) {
   .values h2{
     font-size: 60px;
-    color: #2e14a0;
   }
   .values h3{
     font-size: 25px !important;
